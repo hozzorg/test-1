@@ -1,6 +1,6 @@
 test
 ====
 
-:boom:
+:boom: :boom: :boom:
 
 :zap:
